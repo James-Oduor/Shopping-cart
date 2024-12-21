@@ -1,6 +1,6 @@
 # Shopping-cart
 This is a web-based shopping cart application for a desserts store. Users can browse various dessert items, add them to their shopping cart, and view the cart's total cost, taxes, and subtotal. 
-
+https://shopping-cart-project-app.netlify.app/
 ![image](https://github.com/user-attachments/assets/bff95c3f-2001-4022-9a0c-9eed17ba26dd)
 
 
