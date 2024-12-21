@@ -31,5 +31,6 @@ The project contains the following files:
 - **JavaScript**: For dynamic functionality and user interaction.
 
 ---
-
+**installation**
+https://shopping-cart-project-app.netlify.app/
 
